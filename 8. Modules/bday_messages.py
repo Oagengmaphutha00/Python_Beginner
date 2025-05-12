@@ -4,5 +4,5 @@ bday_messages = ['Hope you have a very Happy Birthday! 🎈',
 'You were born and the world got better – everybody wins! 🥳',
 'Have lots of fun on your special day! 🎂',
 'Another year of you going around the sun! 🌞']
-message = ch(bday_messages)
+random_message = ch(bday_messages)
 print(message)
